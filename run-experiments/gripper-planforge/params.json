@@ -1,0 +1,7 @@
+{
+  "planforge": {
+    "max_states": 1000,
+    "max_transitions": 10000,
+    "max_time": "30s"
+  }
+}
